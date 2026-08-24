@@ -1,0 +1,121 @@
+{
+  "title": "DISCIPLINAS ISOLADAS — COMUNIDADE EXTERNA",
+  "subtitle": "Biomedicina UFPR — orientações para 2026-2",
+  "semester": "2026-2",
+  "intro": "A matrícula em disciplina isolada é destinada exclusivamente a pessoas que não integram o corpo discente regular da UFPR e que possuam, no mínimo, Ensino Médio concluído. O objetivo é permitir complementação e/ou atualização de conhecimentos, sem ingresso regular no curso.",
+  "deadline": {
+    "request": "17 e 18/08/2026",
+    "analysis": "17 a 19/08/2026",
+    "warning": "O recebimento da documentação deve respeitar rigorosamente o prazo previsto no Calendário Acadêmico. Não há previsão de prorrogação."
+  },
+  "eligibility": [
+    "Não possuir matrícula regular em curso de graduação da UFPR.",
+    "Possuir, no mínimo, certificado de conclusão do Ensino Médio.",
+    "Verificar previamente se a disciplina desejada está sendo ofertada no semestre.",
+    "Confirmar com o Departamento responsável a existência de vaga.",
+    "Atender aos pré-requisitos ou condições de acompanhamento avaliadas pelo Departamento."
+  ],
+  "limits": [
+    "É permitido cursar até 3 disciplinas isoladas, anuais ou semestrais, simultaneamente em cada período letivo.",
+    "Não podem ser concedidas vagas em disciplinas de Estágio, Monografia, Trabalho de Conclusão de Curso e outras disciplinas eventualmente vedadas pelo Colegiado.",
+    "A aprovação em disciplina isolada gera certificado comprobatório, mas não assegura direito a diploma de graduação."
+  ],
+  "documents": [
+    "Formulário de Requerimento de Matrícula em Disciplina Isolada, devidamente preenchido e assinado.",
+    "RG ou Carteira de Identidade Nacional — CIN.",
+    "CPF.",
+    "Comprovante de conclusão do Ensino Médio.",
+    "Certificado ou histórico original de curso superior pode servir como comprovação de conclusão do Ensino Médio, quando aplicável."
+  ],
+  "flow": [
+    {
+      "step": "1",
+      "title": "Escolher a disciplina",
+      "text": "Consulte a oferta do semestre e identifique o Departamento responsável pela disciplina."
+    },
+    {
+      "step": "2",
+      "title": "Verificar vaga",
+      "text": "Procure o Departamento e confirme se há vaga disponível para matrícula isolada."
+    },
+    {
+      "step": "3",
+      "title": "Preencher o formulário",
+      "text": "Informe corretamente código do curso, código da disciplina, turma, nome da disciplina e justificativa."
+    },
+    {
+      "step": "4",
+      "title": "Análise do Departamento",
+      "text": "A Secretaria/Chefia verifica documentação, requisitos, pré-requisitos e condições de acompanhamento."
+    },
+    {
+      "step": "5",
+      "title": "Autorização",
+      "text": "Somente a Chefia ou a Secretaria do Departamento deve assinar o formulário autorizando a vaga."
+    },
+    {
+      "step": "6",
+      "title": "Processo SEI",
+      "text": "Se autorizado, o Departamento abre processo SEI público; documentos com dados pessoais devem ter nível de acesso restrito."
+    },
+    {
+      "step": "7",
+      "title": "COPAP / SIGA",
+      "text": "A documentação segue para processamento institucional, registro e efetivação da matrícula."
+    }
+  ],
+  "form": {
+    "title": "Requerimento de Matrícula em Disciplina Isolada",
+    "url": "Formulario-Isoladas.pdf",
+    "note": "Formulário oficial disponibilizado para solicitação. O preenchimento correto é condição para a efetivação da matrícula."
+  },
+  "important": [
+    "Confira cuidadosamente os códigos das disciplinas e a turma escolhida.",
+    "Os documentos pessoais devem ser anexados separadamente em formato PDF quando encaminhados pelo processo institucional.",
+    "Processos podem ser públicos, mas documentos contendo dados pessoais devem ter acesso restrito.",
+    "Não compareça à aula presumindo que a vaga está garantida: confirme a autorização e a efetivação institucional da matrícula."
+  ],
+  "legal": [
+    {
+      "name": "Resolução nº 37/97-CEPE — arts. 26 a 28",
+      "description": "Regulamenta a matrícula em disciplinas isoladas na UFPR.",
+      "url": "https://soc.ufpr.br/portal/wp-content/uploads/2016/07/resolucao_cepe_08071997-37.pdf"
+    },
+    {
+      "name": "Calendário Acadêmico 2026 — Resolução nº 22/25-CEPE",
+      "description": "Define os prazos acadêmicos oficiais de 2026.",
+      "url": "https://prograp.ufpr.br/wp-content/uploads/2026/02/SEI_8591111_Resolucao__Conselho_de_Ensino__Pesquisa_e_Extensao_22_25___CEPE.pdf"
+    },
+    {
+      "name": "Procedimentos Acadêmicos — Disciplinas Isoladas",
+      "description": "Tutorial da PROGRAP/COPAP sobre o procedimento institucional.",
+      "url": "https://prograp.ufpr.br/copap/wp-content/uploads/sites/2/2025/09/Tutorial-Disciplinas-Isoladas.pdf"
+    }
+  ],
+  "links": [
+    {
+      "label": "Grade Horária — Biomedicina",
+      "url": "https://rodrigotadm-sketch.github.io/Grade-Hor-ria---Biomedicina/",
+      "description": "Consulte disciplinas, turmas e horários ofertados."
+    },
+    {
+      "label": "Calendário Acadêmico — Biomedicina",
+      "url": "https://rodrigotadm-sketch.github.io/Calend-rio---UFPR/",
+      "description": "Consulte o calendário acadêmico resumido."
+    },
+    {
+      "label": "Principais Datas — Biomedicina",
+      "url": "https://rodrigotadm-sketch.github.io/Calend-rio-Academico-UFPR/",
+      "description": "Consulte prazos acadêmicos detalhados."
+    },
+    {
+      "label": "Formulários — Biomedicina",
+      "url": "https://bio.ufpr.br/biomedicina/formularios/",
+      "description": "Central de formulários do Curso de Biomedicina."
+    }
+  ],
+  "contact": {
+    "email": "biomedicina@ufpr.br",
+    "phone": "(41) 3361-1744"
+  }
+}
